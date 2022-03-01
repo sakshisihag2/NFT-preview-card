@@ -1,0 +1,61 @@
+body{
+  font-family: 'Outfit', sans-serif;
+  background-color: hsl(217, 54%, 11%);
+}
+.container{
+  width: 330px;
+  height: 620px;
+  margin: 50px 550px auto 550px;
+  border-radius: 2%;
+  background-color: hsl(216, 50%, 16%);
+  position: absolute;
+}
+.txt{
+  color: cyan;
+  font-weight: bold;
+}
+h2{
+  font-family: 'Outfit', sans-serif;
+  color: white;
+  margin: 15px;
+}
+p{
+  font-family: 'Outfit', sans-serif;
+  color: hsl(215, 51%, 70%);
+  margin: 10px;
+  padding: 5px;
+}
+.avatar{
+  float: left;
+  margin: 0 10px 5px 10px;
+  width : 10%;
+  border-width: 2px;
+  border-color: white;
+}
+.ethereum{
+  float: left;
+  margin : 5px 5px 0 15px;
+
+}
+.clock{
+  float: left;
+  margin : 5px 5px 0 15px;
+
+}
+
+.name{
+  font-family: 'Outfit', sans-serif;
+  color: white;
+}
+hr{
+  border-width: 1px;
+  border-color: hsl(215, 51%, 70%);
+  margin: 15px;
+}
+.eq {
+  height: 300px;
+  width: 300px;
+  padding: 5px;
+  margin: 10px;
+  border-radius: 5%;
+}
